@@ -1,6 +1,7 @@
 hi
 
-- 🌱 I’m currently learning analysis and systems development.
+- 🌱 I'am currently graduating in analysis and development of systems.
+
 
 <div align="center">
   <a href="https://github.com/guibedan">
