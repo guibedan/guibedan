@@ -35,4 +35,5 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibedan&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibedan-gr&hide=Html&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guibedan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guibedan-gr&hide=Html&theme=nord_dark)
