@@ -1,8 +1,8 @@
-### Hey! I'm Guilherme Bedan 😄✌
+### Hey! I'm Guilherme Bedan
 
 <hr>
 
-### A little about me 📕
+### A little about me:
 
 <ul>
     <li> I'm a Full Stack jr developer but I work more in the Frontend 
@@ -25,7 +25,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-### My Best Skills 💻✨
+### My Best Skills ✨
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
