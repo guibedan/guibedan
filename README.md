@@ -5,7 +5,7 @@
 ### A little about me:
 
 <ul>
-    <li> I'm a Full Stack jr developer but I work more in the Frontend 
+    <li> I'm a Full Stack jr developer 
     <li> Currently I'm studying Systems and Analyst Development technician at FATEC Americana university 
 </ul>
 
@@ -25,12 +25,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-
-### My Best Skills ✨
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### My networks 📱 
 
