@@ -5,7 +5,7 @@
 ### A little about me:
 
 <ul>
-    <li> I'm a Full Stack jr developer 
+    <li> I'm a Full Stack developer 
     <li> Currently I'm studying Systems and Analyst Development technician at FATEC Americana university 
 </ul>
 
