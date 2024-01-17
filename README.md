@@ -9,6 +9,13 @@
     <li> Currently I'm studying Systems and Analyst Development technician at FATEC Americana university 
 </ul>
 
+### Experience 🌃
+<div>
+    <ul>
+        <li> Trainee from QYON Sistemas Inteligentes. (01/2024 - Currently)
+    </ul>
+</div>
+
 ### My skills 💻
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
