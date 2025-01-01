@@ -12,7 +12,8 @@
 ### Experience 🌃
 <div>
     <ul>
-        <li> Trainee from QYON Sistemas Inteligentes. (01/2024 - Currently)
+        <li> Trainee at QYON Sistemas Inteligentes. (01/2024 - 11/2024)</li>
+        <li> Software Developer at QYON Sistemas Inteligentes. (12/2024 - Currently)</li>
     </ul>
 </div>
 
