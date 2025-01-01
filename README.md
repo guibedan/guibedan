@@ -6,7 +6,7 @@
 
 <ul>
     <li> I'm a Backend developer 
-    <li> Currently I'm studying Systems and Analyst Development technician at FATEC Americana university 
+    <li> I have a degree in Systems Analysis and Development from Fatec Americana
 </ul>
 
 ### Experience 🌃
