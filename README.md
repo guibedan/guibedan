@@ -15,7 +15,8 @@
         <li> Trainee at QYON Sistemas Inteligentes. (01/2024 - 11/2024)</li>
         <li> Software Developer at QYON Sistemas Inteligentes. (12/2024 - 10/2025)</li>
         <li> Backend Developer at Globals: Critical Mission. (10/2025 - 04/2026)</li>
-        <li> Backend Developer at Grupo Revise. (04/2026 - Currently)</li>
+        <li> Backend Developer at Grupo Revise. (04/2026 - 10/2026)</li>
+        <li> Backend Developer at Accenture. (10/2026 - Currently)</li>
     </ul>
 </div>
 
